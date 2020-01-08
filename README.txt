@@ -1,0 +1,1 @@
+此代码为opencv_python官方教程配套代码
